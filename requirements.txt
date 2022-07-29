@@ -1,0 +1,5 @@
+pickle-mixin==1.0.2
+streamlit==1.2.0
+streamlit-option-menu==0.3.2
+ipywidgets==7.7.1
+pandas==1.4.3
